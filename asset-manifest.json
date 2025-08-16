@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/maku-concert/static/css/main.962b6986.css",
-    "main.js": "/maku-concert/static/js/main.b05e5425.js",
+    "main.css": "/maku-concert/static/css/main.17e5c7eb.css",
+    "main.js": "/maku-concert/static/js/main.845ad231.js",
     "index.html": "/maku-concert/index.html",
-    "main.962b6986.css.map": "/maku-concert/static/css/main.962b6986.css.map",
-    "main.b05e5425.js.map": "/maku-concert/static/js/main.b05e5425.js.map"
+    "main.17e5c7eb.css.map": "/maku-concert/static/css/main.17e5c7eb.css.map",
+    "main.845ad231.js.map": "/maku-concert/static/js/main.845ad231.js.map"
   },
   "entrypoints": [
-    "static/css/main.962b6986.css",
-    "static/js/main.b05e5425.js"
+    "static/css/main.17e5c7eb.css",
+    "static/js/main.845ad231.js"
   ]
 }
