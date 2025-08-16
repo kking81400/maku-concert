@@ -1,70 +1,43 @@
-# Getting Started with Create React App
+# 🎶 سامانه فروش بلیط آنلاین Maku-Concert
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+این پروژه یک نمونه کار (Portfolio Project) برای نمایش یک **سیستم فروش آنلاین بلیط کنسرت‌ها و سینماها** است.  
+هدف این پروژه ساده‌سازی فرآیند خرید بلیط برای کاربران است تا بتوانند بدون نیاز به مراجعه حضوری، صندلی و بلیط خود را به‌صورت آنلاین رزرو کنند.
 
-## Available Scripts
+*(برای دیدن پروژه، روی لینک زیر کلیک کنید)*
 
-In the project directory, you can run:
+**[🎟️ لینک دموی زنده پروژه](https://kking81400.github.io/maku-concert/)**
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## ✨ ویژگی‌های کلیدی پروژه
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+* **صفحه اصلی مدرن:** معرفی سامانه و نمایش رویدادها.
+* **لیست رویدادها:** امکان مشاهده کنسرت‌ها و فیلم‌های در حال اکران.
+* **جستجو و فیلتر:** جستجو بر اساس نام رویداد، تاریخ یا مکان.
+* **صفحه جزئیات رویداد:** نمایش کامل اطلاعات هر کنسرت یا فیلم.
+* **رزرو بلیط آنلاین:** انتخاب صندلی و خرید بلیط به صورت شبیه‌سازی شده.
+* **طراحی کاملاً واکنش‌گرا (Responsive):** نمایش بهینه در دسکتاپ، تبلت و موبایل.
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 💻 تکنولوژی‌های استفاده شده
 
-### `npm run build`
+این پروژه با استفاده از ابزارهای مدرن وب ساخته شده است:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* **Front-End:**
+    * [**React.js**](https://react.dev/) — کتابخانه قدرتمند برای رابط کاربری
+    * [**Tailwind CSS**](https://tailwindcss.com/) — فریم‌ورک مدرن برای استایل‌دهی
+* **ابزارها و محیط توسعه:**
+    * **Create React App** — ساخت و پیکربندی سریع پروژه
+    * **Git & GitHub** — مدیریت نسخه و میزبانی کد
+    * **GitHub Pages** — استقرار آنلاین پروژه
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🚀 راهنمای نصب و اجرا
 
-### `npm run eject`
+برای اجرای پروژه روی سیستم خود مراحل زیر را دنبال کنید:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. **کلون کردن پروژه:**
+   ```bash
+   git clone https://github.com/kking81400/maku-concert
