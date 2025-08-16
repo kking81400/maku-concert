@@ -25,7 +25,7 @@ export default function BookingSummary({ concert }) {
     };
 
     return (
-        <div className="bg-white p-6 rounded-xl shadow-lg sticky top-6 fade-in">
+        <div className="bg-white p-6 rounded-xl shadow-lg sticky top-6 fade-in w-full sm:w-80">
             <h3 className="text-2xl font-bold border-b pb-3 mb-4 text-gray-800">خلاصه رزرو</h3>
             {selectedSeats.length > 0 ? (
                 <>
